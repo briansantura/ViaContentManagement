@@ -241,6 +241,4 @@ ModelManifest.xml
 # FAKE - F# Make
 .fake/
 
-# ignore a single file
-App.Config
-
+/ViaContentManagement.Repository/App.config
